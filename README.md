@@ -1,5 +1,5 @@
 # Simple_Paint
-Winform Simple Paint application using bitmap. This project is used for Windows programing course.
+Simple Winform Paint application using bitmap. This project is used for Windows programing course.
 
 Đồ án giữa kì môn Lập trình Windows - Ứng dụng Winform Paint đơn giản viết bằng C# sử dụng bitmap.
 
